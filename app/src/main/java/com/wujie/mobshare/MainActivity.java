@@ -27,5 +27,6 @@ public class MainActivity extends AppCompatActivity {
         oks.setTitleUrl("http://www.baidu.com");
         oks.setText("哈哈，你是猜猜我在做什么");
         oks.show(this);
+
     }
 }
